@@ -9,6 +9,9 @@ A website created to display various projects I have completed or am currently w
 * Domain Setup
 * Github Repository Management
 
+
 # Future Plans
 
-* 
+* Finish project descriptions and links.
+* Design logo for website.
+* Create custom JavaScript function to learn and add more features.
