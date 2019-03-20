@@ -9,6 +9,10 @@ A website created to display various projects I have completed or am currently w
 * Domain Setup
 * Github Repository Management
 
+# Known Bugs to Fix
+
+* Fix navbar not fitting on mobile.
+  * Change to dropdown in top corner when on mobile.
 
 # Future Plans
 
