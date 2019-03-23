@@ -13,9 +13,10 @@ A website created to display various projects I have completed or am currently w
 
 * Fix navbar not fitting on mobile.
   * Change to dropdown in top corner when on mobile.
+* Unable to decrease top padding for wrapper class.
+  * Look into CSS classes to find conflict.
 
 # Future Plans
 
-* Finish project descriptions and links.
 * Design logo for website.
 * Create custom JavaScript function to learn and add more features.
